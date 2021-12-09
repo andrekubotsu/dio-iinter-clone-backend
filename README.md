@@ -1,20 +1,16 @@
-- Requisitos e ambiente 
+# DIO's Inter's Front-end Week
 
-- Visual Studio Code
-  Extensões:
-- Insomnia ou Postman
-
-
----
-Dependencias nescessárias
+## Dependencies
 
 Express
 typescript -D
-ts-node -D 
+ts-node -D
 @types/express -D
 @types/node -D
 nodemon -D
 
+## To execute:
 
-Criando setup Ininical - Referencias.
-https://dev.to/melquisedecfelipe/configurando-eslint-no-node-com-express-e-typescript-58p9
+- developed under Node 14.17.5
+- `yarn`
+- `yarn start:dev`
